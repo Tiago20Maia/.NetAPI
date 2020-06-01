@@ -7,12 +7,8 @@ C:\Users\tiago.brito\source\repos\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\net
 C:\Users\tiago.brito\source\repos\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.pdb
 C:\Users\tiago.brito\source\repos\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.dll
 C:\Users\tiago.brito\source\repos\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.Views.pdb
-C:\Users\tiago.brito\source\repos\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
-C:\Users\tiago.brito\source\repos\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.dll
 C:\Users\tiago.brito\source\repos\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
 C:\Users\tiago.brito\source\repos\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.dll
-C:\Users\tiago.brito\source\repos\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
-C:\Users\tiago.brito\source\repos\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Usuarios.pdb
 C:\Users\tiago.brito\source\repos\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
 C:\Users\tiago.brito\source\repos\Alura.WebAPI\Alura.WebAPI.WebApp\bin\Debug\netcoreapp2.1\Alura.WebAPI.Seguranca.pdb
 C:\Users\tiago.brito\source\repos\Alura.WebAPI\Alura.WebAPI.WebApp\obj\Debug\netcoreapp2.1\Alura.WebAPI.WebApp.csprojAssemblyReference.cache

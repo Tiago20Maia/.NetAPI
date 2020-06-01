@@ -32,7 +32,7 @@ namespace Alura.ListaLeitura.Modelos
                 Lista = model.Lista
             };
         }
-        
+
         public static LivroApi ToApi(this Livro livro)
         {
             return new LivroApi
@@ -57,6 +57,19 @@ namespace Alura.ListaLeitura.Modelos
                 Resumo = livro.Resumo,
                 Autor = livro.Autor,
                 Lista = livro.Lista
+            };
+        }
+
+        public static LivroUpload ToUpload(this LivroApi livro)
+        {
+            return new LivroUpload
+            {
+                Id = livro.Id,
+                Titulo = livro.Titulo,
+                Subtitulo = livro.Subtitulo,
+                Resumo = livro.Resumo,
+                Autor = livro.Autor,
+                Lista = livro.Lista.ParaTipo()
             };
         }
     }
